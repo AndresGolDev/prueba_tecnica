@@ -1,4 +1,4 @@
-# 📦 Optimización de Entrega de Paquetes (Aproximación Básica)
+# 📦 Prueba Tecnica -- Optimización de Entrega de Paquetes por peso:
 El desafío de minimizar el número de viajes con un límite de peso por 
 viaje (a menudo conocido como el "Problema de la Mochila" o "Bin Packing Problem") es un problema 
 clásico NP-hard. Una solución verdaderamente óptima implicaría algoritmos más sofisticados para agrupar
